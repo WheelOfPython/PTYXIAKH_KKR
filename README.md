@@ -21,7 +21,7 @@ Works from command line as:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&ensp;
 **-o** *if 1 saves figure to .svg file @1200dpi (default 0)* <br />
 
-## <ins> ΦΑΚΕΛΟΣ: RENDERER </ins> <br /> WebApp για οπτικοποίηση της κρυσταλλικής δομής απο το inputcard
+## <ins> ΦΑΚΕΛΟΣ: BravaisJS </ins> <br /> WebApp για οπτικοποίηση της κρυσταλλικής δομής απο το inputcard
 
 Lattice renderer in JS for visualizing crystal structures
 
