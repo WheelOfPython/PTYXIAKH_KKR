@@ -6,7 +6,7 @@ Make and organize nonco_angle.dat files with Python
 
 **MODE 0** - In the working directory, it creates sub-directories named **th_###_phi_###**, that contain a nonco_angle.dat file with constant values
 
-**MODE 1** - In the working directory, it creates sub-directories named **th_###_phi_#_N**, that contain a nonco_angle.dat file with incremental phi
+**MODE 1** - In the working directory, it creates sub-directories named **th_###_phi\_#_N**, that contain a nonco_angle.dat file with incremental phi
 
 ## <ins> ΦΑΚΕΛΟΣ: PLOTTER </ins> <br /> Script για εύκολη δημιουργία γραφημάτων DoS
 Python script for plotting 'dos.atom*' files with matplotlib
