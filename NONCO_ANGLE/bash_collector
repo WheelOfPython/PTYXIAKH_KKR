@@ -1,0 +1,3 @@
+Collect the data and create the file that the python script reads:
+
+for i in th_###_*; do echo "$i" >> ###_energies.txt; cd $i; grep "sum of b" output.000.txt >> ../###_energies.txt; cd ..; done
