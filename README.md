@@ -4,7 +4,7 @@
 ## <ins> ΦΑΚΕΛΟΣ: NONCO_ANGLE </ins> <br /> Script για αυτόματη δημιουργία φακέλων & αρχείων nonco_angle.dat
 Make and organize nonco_angle.dat files with Python
 
-**MODE 0** - In the working directory, it creates sub-directories named **th_###_phi_###**, that contain a nonco_angle.dat file with constant values
+**MODE 0** - In the working directory, it creates sub-directories named **th_###_phi\_###**, that contain a nonco_angle.dat file with constant values
 
 **MODE 1** - In the working directory, it creates sub-directories named **th_###_phi\_#_N**, that contain a nonco_angle.dat file with incremental phi
 
