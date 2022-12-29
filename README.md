@@ -27,3 +27,6 @@ Works from command line as:
 Lattice renderer in JS for visualizing crystal structures
 
 Project based on the p5.js library
+
+## <ins> ΦΑΚΕΛΟΣ: CONVERGED </ins>
+Σε αυτό τον φάκελο μπορούμε να ανεβάζουμε υποφακελους με δυναμικά που έχουμε ήδη συγκλίνει, μαζί με το inputcard που χρησιμοποιήσαμε.
